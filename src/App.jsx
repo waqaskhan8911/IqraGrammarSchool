@@ -8903,7 +8903,7 @@ ${pages.map(page => `<div class="page">${page.map(s => {
         <div class="student-block">
           <!-- School Copy -->
           <div class="receipt">
-            <img src="../public/LOGO.jpg" class="watermark" alt="Logo"/>
+            <img src="./public/LOGO.jpg" class="watermark" alt="Logo"/>
             <div class="content">
               <div class="copy-label">School Copy</div>
               <div class="header">Iqra Grammar Public School</div>
